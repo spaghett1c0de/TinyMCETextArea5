@@ -1,0 +1,22 @@
+{
+  "name": "tinymcetextarea5",
+  "version": "5.0.0",
+  "description": "Ext.ux.form.TinyMCETextArea",
+  "main": "TinyMCETextArea.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaghett1c0de/TinyMCETextArea5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spaghett1c0de/TinyMCETextArea5/issues"
+  },
+  "homepage": "https://github.com/spaghett1c0de/TinyMCETextArea5#readme"
+}
